@@ -1,6 +1,6 @@
 # Hola, soy j0k3rdevs 👋
 
-**Desarrollador full stack con enfoque en IA agéntica y Harness Engineering.**
+**Desarrollador full stack especializado en arquitectura de software, con enfoque en IA agéntica y Harness Engineering.**
 
 Trabajo en aplicaciones web y en lo necesario para mantenerlas funcionando en producción: desarrollo, despliegues, mantenimiento de servidores y seguridad.
 
