@@ -26,13 +26,23 @@ Plataforma en producción que combina emisiones en directo con participación de
 
 El proyecto continúa en desarrollo y mejora.
 
-### Herramientas para agentes de IA
-Desarrollo un harness propio sobre **Pi**, mi cliente principal para trabajar con agentes de IA.
+### [j0k3r-pi — Harness para desarrollo con agentes de IA](https://github.com/j0k3r-dev-rgl/j0k3r-pi)
 
-- Herramientas y extensiones propias desarrolladas en TypeScript.
-- Flujos de trabajo adaptados a mi forma de desarrollar software.
+Harness propio sobre **Pi**, con herramientas y extensiones desarrolladas en **TypeScript** para adaptar el trabajo con agentes a mi flujo de desarrollo.
+
+- Workflows controlados, orquestación de subagentes y verificación independiente.
 - Memoria persistente con embeddings y búsqueda semántica.
-- Automatizaciones para tareas de desarrollo y mantenimiento.
+- Herramientas de investigación e integraciones con servicios de desarrollo.
+- Interfaz de terminal personalizada y automatizaciones.
+
+### [hypr-dictate — Dictado por voz para Hyprland](https://github.com/j0k3r-dev-rgl/hypr-dictate)
+
+Aplicación de escritorio desarrollada en **Rust**, con integración nativa en **Wayland/Hyprland**. Captura audio, solicita su transcripción mediante **CLIProxyAPI** e inserta el texto en la ventana de destino.
+
+- Interfaz de configuración con GTK4 y captura de audio mediante PipeWire.
+- Dictado mediante controles en pantalla o atajos de teclado.
+- Sin almacenamiento de grabaciones ni transcripciones.
+- Comprobación de la ventana de destino antes de insertar el texto.
 
 ## Tecnologías
 
@@ -42,6 +52,7 @@ Desarrollo un harness propio sobre **Pi**, mi cliente principal para trabajar co
 | Backend | Java, Spring |
 | Bases de datos | MongoDB, PostgreSQL |
 | Herramientas para IA | TypeScript, Pi, IA agéntica, Harness Engineering |
+| Aplicaciones de escritorio | Rust |
 
 ## Cómo trabajo
 
