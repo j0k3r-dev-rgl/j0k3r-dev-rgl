@@ -30,7 +30,7 @@ El proyecto continúa en desarrollo y mejora.
 
 Harness propio sobre **Pi**, con herramientas y extensiones desarrolladas en **TypeScript** para adaptar el trabajo con agentes a mi flujo de desarrollo.
 
-- Workflows controlados, orquestación de subagentes y verificación independiente.
+- Workflows controlados y orquestación de subagentes, con verificación independiente en el flujo planificado.
 - Memoria persistente con embeddings y búsqueda semántica.
 - Herramientas de investigación e integraciones con servicios de desarrollo.
 - Interfaz de terminal personalizada y automatizaciones.
@@ -41,7 +41,7 @@ Aplicación de escritorio desarrollada en **Rust**, con integración nativa en *
 
 - Interfaz de configuración con GTK4 y captura de audio mediante PipeWire.
 - Dictado mediante controles en pantalla o atajos de teclado.
-- Sin almacenamiento de grabaciones ni transcripciones.
+- La aplicación no guarda grabaciones ni transcripciones en disco.
 - Comprobación de la ventana de destino antes de insertar el texto.
 
 ## Tecnologías
