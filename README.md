@@ -14,6 +14,8 @@ Aplicación privativa en producción para la gestión de asistencias sociales en
 - Definición de arquitectura, diseño de APIs y modelos de datos.
 - Desarrollo de funcionalidades, pruebas e integraciones.
 - Mantenimiento evolutivo, despliegues y administración del servidor.
+- Gestión de servicios con **systemd**.
+- Monitorización de sistemas con **Grafana y Prometheus**.
 - Responsabilidad sobre la seguridad del proyecto y la integridad de los datos.
 
 ### [Radio online interactiva](https://radio.sistemasias.com.ar/)
@@ -53,6 +55,9 @@ Aplicación de escritorio desarrollada en **Rust**, con integración nativa en *
 | Bases de datos | MongoDB, PostgreSQL |
 | Herramientas para IA | TypeScript, Pi, IA agéntica, Harness Engineering |
 | Aplicaciones de escritorio | Rust |
+| Contenedores | Docker |
+| Gestión de servicios | systemd |
+| Monitorización y observabilidad | Grafana, Prometheus |
 
 ## Cómo trabajo
 
